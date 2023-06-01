@@ -12,7 +12,7 @@ The repository has the following file structure:
 
 - `model.py`: This file defines the neural network model as a subclass of `nn.Module`. The model consists of four convolutional layers and two fully connected layers and also has forward method which has maxpooling layers and activation functions.
 
-- `S5.ipnb`: This file serves as the main script for training and testing the neural network model. It imports the necessary modules, including the `NNModel` class, `Utility` class, and the `ModelHelpers` class.
+- `S5.ipynb`: This file serves as the main script for training and testing the neural network model. It imports the necessary modules, including the `NNModel` class, `Utility` class, and the `ModelHelpers` class.
 
 ## Usage
 To use the solution, follow these steps:
